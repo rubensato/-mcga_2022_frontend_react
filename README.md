@@ -1,4 +1,4 @@
-# FE-MCGA
+# MCGA - Proyecto React Frontend para final MCGA - 2022 - UAI Rosario
 
 ## 🚀 ¿Que es Redux? - Resumen.
 
